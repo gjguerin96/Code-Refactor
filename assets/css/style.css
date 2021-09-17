@@ -1,4 +1,4 @@
-/*general page styling*/
+/*general styling*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -13,7 +13,7 @@ p {
     font-size: 16px;
 }
 
-/* header content styling */
+/*styling for the page header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,10 +26,12 @@ h1 {
     font-size: 48px;
 }
 
+/*makes seo a different color from the rest of the title*/
 #seo {
     color: #d9dcd6;
 }
 
+/*styling for the navigation links in the header*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +50,7 @@ a {
     text-decoration: none;
 }
 
+/*styles the background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -57,7 +60,7 @@ a {
     background-position: center;
 }
 
-/*main content of the page styling*/
+/* styles the main content of the page */
 main {
     width: 75%;
     display: inline-block;
@@ -92,8 +95,8 @@ h2 {
     margin-left: 25px;
 }
 
-/*styles the sidebar*/
-sidebar {
+/*styling for the sidebar*/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -120,7 +123,7 @@ h3 {
     max-width: 150px;
 }
 
-/*footer stlying*/
+/*styles the footer*/
 footer {
     padding: 30px;
     clear: both;
