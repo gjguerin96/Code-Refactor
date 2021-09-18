@@ -13,9 +13,9 @@ N/A
 
 ## Usage
 There are three links on the upper right corner of the page in the navbar (see screenshot). They each link to their corresponding page section, so a user can simply click the link they want without having to scroll down the page looking for a specific section.
-    ```md
-    ![Screenshot of deployed application showing three links in the upper right corner.](assets/images/horiseon-screenshot.png)
-    ```
+    
+![Screenshot of deployed application showing three links in the upper right corner.](assets/images/horiseon-screenshot.png)
+  
     
 ## Credits
 I recieved some assistance and advice from my classmates and from my tutor, Vinnie Lopez.
