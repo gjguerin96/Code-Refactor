@@ -5,25 +5,25 @@ This project consisted of refactoring existing code for a website's homepage. Ra
 
 My motivations were to better understand how to make a site accessible, and to learn about what efficient and inefficient code look like. I learned about how HTML and CSS interact, as well as what it means to add semantic elements to HTML.
 
+Link to deployed site:
+https://gjguerin96.github.io/Code-Refactor/
+
 ## Installation
 N/A
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+There are three links on the upper right corner of the page in the navbar (see screenshot). They each link to their corresponding page section, so a user can simply click the link they want without having to scroll down the page looking for a specific section.
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot of deployed application showing three links in the upper right corner.](assets/images/horiseon-screenshot.png)
     ```
     
 ## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+I recieved some assistance and advice from my classmates and from my tutor, Vinnie Lopez.
 
 ## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2021 Gabriel Guerin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
